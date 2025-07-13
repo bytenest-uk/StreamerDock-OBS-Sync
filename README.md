@@ -8,3 +8,7 @@ Your OBS setup, backed up and restored in seconds. StreamerDock helps streamers 
 - 🗂 Backup manager with zip archiving and version history
 - 💬 Auto-updater with changelog popups (only shown once per version)
 - 🔒 Live backup status banner (green for safe, red for unsafe)
+
+# 📣 Feedback & Support
+
+Found a bug? Have a feature idea? Want to support development?
