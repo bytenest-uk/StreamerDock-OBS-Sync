@@ -1,3 +1,7 @@
+## [v1.0.3] - 13/07/2025 
+-   
+- Updated the live refresh as it was broken and fixed some styling. 
+ 
 ## [v1.0.1] - 13/07/2025 
 -   
 - Added a live feedback banner so users know if they have a backup or not. 
