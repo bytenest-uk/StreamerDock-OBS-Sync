@@ -1,3 +1,6 @@
+## [v1.0.4] - 13/07/2025 
+- Just some small fixed to the layout and style  
+ 
 ## [v1.0.3] - 13/07/2025 
 -   
 - Updated the live refresh as it was broken and fixed some styling. 
