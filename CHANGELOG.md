@@ -1,3 +1,13 @@
+## [v1.0.5] - 14/07/2025 
+- Fixed backup manager to show if obs is running and if users try restore they will be asked to closed obs.   
+ 
+## [v1.0.5] - 14/07/2025 
+- Fixed backup manager to show if obs is running and if users try restore they will be asked to closed obs. 
+ 
+## [v1.0.5] - 14/07/2025 
+-   
+- Fixed backup manager to show if obs is running and if users try restore they will be asked to closed obs.  
+ 
 ## [v1.0.4] - 13/07/2025 
 - Just some small fixes to the layout and style  
  
