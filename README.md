@@ -1,4 +1,4 @@
-# 📦 StreamerDock OBS Sync — v1.0.6
+# 📦 StreamerDock OBS Sync — v2.0.0
 
 Your OBS setup, backed up and restored in seconds. StreamerDock helps streamers protect their scenes, profiles, sources, and layouts with ease.
 
