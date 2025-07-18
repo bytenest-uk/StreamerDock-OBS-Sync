@@ -5,6 +5,7 @@
 
 Your OBS setup, backed up and restored in seconds. StreamerDock helps streamers protect their scenes, profiles, sources, and layouts with ease.
 </p>
+
 ---
 ## 🚀 Features
 
