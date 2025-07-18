@@ -1,7 +1,6 @@
-<p align="center">
 # 📦 StreamerDock OBS Sync — v2.0.0
 
-
+<p align="center">
 <img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/sd_logo_transparent.png?raw=true" align="center" height="230" width="210" ></a>
 
 Your OBS setup, backed up and restored in seconds. StreamerDock helps streamers protect their scenes, profiles, sources, and layouts with ease.
