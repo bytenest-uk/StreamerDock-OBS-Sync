@@ -1,3 +1,12 @@
+## [v2.0.0] - 15/07/2025
+- Updated to a new fully tabbed layout, no more one page button layout.
+- Added a backup manager to make it easier to backup and restore.
+- Added threaded support to make zipping large backups faster.
+- Added a settings page and ability to export settings (more options soon!) 
+- Changed how it checks if OBS is running.
+- Added a settings page and ability to export settings (more options soon!) 
+- lots of other fixes too many to list! 
+ 
 ## [v1.0.6] - 14/07/2025 
 - Finally added some icons for the .exe and logo. 
  
