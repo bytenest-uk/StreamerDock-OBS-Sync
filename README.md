@@ -26,11 +26,7 @@ Your OBS setup, backed up and restored in seconds. StreamerDock helps streamers 
 
 ## Screenshots
 
-<img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/01_main_screen.png?raw=true" height="230" width="210" ></a>
-
-<img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/02_backup_screen.png?raw=true" height="230" width="210" ></a>
-
-<img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/03_settings_screen.png?raw=true" height="230" width="210" ></a>
+<img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/01_main_screen.png?raw=true" height="230" width="210" ></a><img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/02_backup_screen.png?raw=true" height="230" width="210" ></a><img src="https://github.com/bytenest-uk/StreamerDock-OBS-Sync/blob/main/assets/screenshots/03_settings_screen.png?raw=true" height="230" width="210" ></a>
 
 ---
 
